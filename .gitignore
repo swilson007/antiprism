@@ -20,6 +20,8 @@ libtool
 ltmain.sh
 missing
 stamp-h1
+build/
+*.swo
 *.o
 *.lo
 *.a
